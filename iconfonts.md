@@ -3,7 +3,7 @@
 ## 使用开源字体图标[“Font Awesome”](http://www.bootcss.com/p/font-awesome/)
 
 
-Font Awesome字体文件， 当前版本好汉249 个图标，基本满足常规开发需求。
+Font Awesome字体文件， 当前版本249 个图标，基本满足常规开发需求。
 
 ## 字体图标的特点：
 
